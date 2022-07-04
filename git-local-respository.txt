@@ -13,6 +13,9 @@ git remote add origin + (repository url) ( add remote repositiry )
 git push -u origin (remote name) master(name of branch) ( connects local repository to remote repository )
 touch .gitignore (things you want to ignore when pushing) 
 git rm--cached -r . (remove all things in the staging repository )
+git clone + (repository url) ( donwloads everything about the file)
+git branch + (file name ) (to create a new branch)
+git branch (to show existing branches)
 
 #to comment 
 *to ignore files e.g) if you write *.txt all txt files would be ignored
