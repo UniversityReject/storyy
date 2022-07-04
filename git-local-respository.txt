@@ -1,0 +1,22 @@
+1. type git init to start
+2. git add . ( to add all files)
+3. git commit -m "what changed"
+
+
+*************************** Useful git Commands **********************************
+
+git status ( show what files hasnt been commited yet)
+git log ( shows the dates files has been added)
+git diff ( shows the differences between files)
+git checkout ( reverts back the file to previous save point)
+
+
+*************************** Other Commands **********************************
+
+cd - move to the file / folders
+ls - list all the files
+ls -a - shows all files including hidden ones
+mkdir - create folders
+touch - create files
+rm - delete files
+start - open files
