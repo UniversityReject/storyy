@@ -9,8 +9,13 @@ git status ( show what files hasnt been commited yet)
 git log ( shows the dates files has been added)
 git diff ( shows the differences between files)
 git checkout ( reverts back the file to previous save point)
+git remote add origin + (repository url) ( add remote repositiry )
+git push -u origin (remote name) master(name of branch) ( connects local repository to remote repository )
+touch .gitignore (things you want to ignore when pushing) 
+git rm--cached -r . (remove all things in the staging repository )
 
-
+#to comment 
+*to ignore files e.g) if you write *.txt all txt files would be ignored
 *************************** Other Commands **********************************
 
 cd - move to the file / folders
